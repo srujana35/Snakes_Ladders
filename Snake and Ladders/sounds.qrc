@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/dice_sound">
+        <file>sounds/Shake And Roll Dice-SoundBible.com-591494296.mp3</file>
+    </qresource>
+</RCC>

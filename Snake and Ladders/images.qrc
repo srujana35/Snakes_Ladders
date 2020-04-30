@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/dice">
+        <file>images/index3.png</file>
+        <file>images/index2.png</file>
+        <file>images/index.png</file>
+        <file>images/index5.png</file>
+        <file>images/index6.png</file>
+        <file>images/index4.png</file>
+    </qresource>
+</RCC>
